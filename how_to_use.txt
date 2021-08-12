@@ -1,0 +1,12 @@
+>install Python.
+
+>install this package by using the terminal.
+
+	pip install beautifulsoup4
+
+>then change values what you want in config.py
+
+>then run int the terminal by,
+
+	python multi.py
+
